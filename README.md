@@ -47,14 +47,18 @@ Setting master bd_addr to b8:27:eb:cb:33:9c
 sudo bluetoothctl
 ```
 >Result screen
+
 >[NEW] Controller B8:27:EB:CB:33:9C raspberrypi [default]
+
 >[NEW] Device CC:B1:1A:DA:B5:F1 [TV] Samsung 5 Series (32)
+
 >[NEW] Device E0:AE:5E:A8:A0:89 PLAYSTATION(R)3 Controller
 
 ```sh
 [bluetooth]# discoverable on
 ```
 >Changing discoverable on succeeded
+
 >[CHG] Controller B8:27:EB:CB:33:9C Discoverable: yes
 
 ```sh
