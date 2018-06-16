@@ -81,5 +81,7 @@ trust E0:AE:5E:A8:A0:89
 
 I have re-used the code from JoyBorg, and have removed the pygame screen and replaced with turtle screen for interactive drawing experience. the idea was to draw turtle drawing in the screen in which Robot would replicate in parallel.
 ```sh
-git clone 
+git clone https://github.com/sgmoorthy/PS3RasPiRobot.git
+cd PS3RasPiRobot
+python3 Ps3RaspiRobot.py
 ```
